@@ -1,1 +1,6 @@
-Hello my name is Vaibhav
+#include<stdio.h>
+int main(){
+int 6;
+printf("The value of a is %d",a);
+return 0;
+}
